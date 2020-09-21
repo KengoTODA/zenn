@@ -4,12 +4,17 @@
   "description": "Contents to sync to zenn.dev",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "textlint books/**/*.md"
   },
-  "keywords": ["zenn", "books"],
+  "keywords": [
+    "zenn",
+    "books"
+  ],
   "author": "Kengo TODA <skypencil@gmail.com>",
   "private": true,
   "devDependencies": {
+    "textlint": "^11.7.6",
+    "textlint-rule-preset-ja-technical-writing": "^4.0.1",
     "zenn-cli": "^0.1.31"
   }
 }
