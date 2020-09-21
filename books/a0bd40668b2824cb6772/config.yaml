@@ -1,0 +1,5 @@
+title: "WIP: JavaのビルドとCIのキホン"
+summary: "この本は、Javaを書き始めた方が自分でビルドスクリプトを作成できるようになり、CIを使った継続的な開発を行えるようになることを目的としています。"
+topics: ["java", "build", "gradle", "ci", "githubactions"]
+published: true
+price: 0

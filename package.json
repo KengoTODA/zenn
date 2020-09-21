@@ -1,0 +1,15 @@
+{
+  "name": "zenn",
+  "version": "1.0.0",
+  "description": "Contents to sync to zenn.dev",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["zenn", "books"],
+  "author": "Kengo TODA <skypencil@gmail.com>",
+  "private": true,
+  "devDependencies": {
+    "zenn-cli": "^0.1.31"
+  }
+}
