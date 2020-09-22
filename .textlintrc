@@ -5,5 +5,8 @@
                 "max": 150
             }
         }
+    },
+    "filters": {
+        "comments": true
     }
 }
