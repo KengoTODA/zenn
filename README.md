@@ -1,3 +1,3 @@
 # Zenn Contents
 
-[✍️ How to use](https://zenn.dev/zenn/articles/zenn-cli-guide)
+[Zenn.devで公開している記事や本](https://zenn.dev/kengo_toda)のソースコードです。
