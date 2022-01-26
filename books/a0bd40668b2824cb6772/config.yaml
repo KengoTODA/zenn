@@ -3,3 +3,14 @@ summary: "この本は、Javaを書き始めた方が自分でビルドスクリ
 topics: ["java", "build", "gradle", "ci", "githubactions"]
 published: true
 price: 0
+
+chapters:
+  - ‘1’
+  - ’2’
+  - ’3’
+  - ’4’
+  - ’5’
+  - ’6’
+  - ’7’
+  - ’8’
+  - ’9’
