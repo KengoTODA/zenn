@@ -1,4 +1,3 @@
-
-### .dot files
-
-https://gist.github.com/KengoTODA/f282433c9105ac7da3447f5d9e54ff93
+タイトル： JavaのビルドとCIのキホン
+著者名： Kengo TODA
+連絡先： zenn-a0bd40668b2824cb6772@kengo-toda.jp
